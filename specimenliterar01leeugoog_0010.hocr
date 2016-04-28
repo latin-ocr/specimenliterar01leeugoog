@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenliterar01leeugoog_0010.png"; bbox 0 0 3216 5154; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 577 2269 984 2324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 577 2269 984 2324">
+     <span class='ocr_line' id='line_1_1' title="bbox 577 2269 984 2324; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 577 2271 688 2322; x_wconf 86' lang='lat' dir='ltr'><strong>PIAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 724 2269 984 2324; x_wconf 84' lang='lat' dir='ltr'><strong>MEMORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 2447 1137 2523">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 430 2447 1137 2523">
+     <span class='ocr_line' id='line_1_2' title="bbox 430 2447 1137 2523; baseline 0.004 -4"><span class='ocrx_word' id='word_1_3' title='bbox 430 2447 744 2522; x_wconf 85' lang='lat' dir='ltr'><strong>FRATRIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 785 2448 1137 2523; x_wconf 88' lang='lat' dir='ltr'>GISBERTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 510 2657 1058 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 510 2657 1058 2714">
+     <span class='ocr_line' id='line_1_3' title="bbox 510 2657 1058 2714; baseline 0.002 -4"><span class='ocrx_word' id='word_1_5' title='bbox 510 2658 587 2711; x_wconf 85' lang='lat' dir='ltr'><strong>HAS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 604 2657 807 2714; x_wconf 82' lang='lat' dir='ltr'><strong>PRIMITIAS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 825 2659 1058 2712; x_wconf 81' lang='lat' dir='ltr'><strong>LITERARIAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 629 2839 932 2879">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 629 2839 932 2879">
+     <span class='ocr_line' id='line_1_4' title="bbox 629 2839 932 2879; baseline 0.01 -3"><span class='ocrx_word' id='word_1_8' title='bbox 629 2839 735 2878; x_wconf 78' lang='lat' dir='ltr'>sAcRAs</span> <span class='ocrx_word' id='word_1_9' title='bbox 752 2842 816 2878; x_wconf 79' lang='lat' dir='ltr'>ESSE</span> <span class='ocrx_word' id='word_1_10' title='bbox 836 2842 932 2879; x_wconf 83' lang='lat' dir='ltr'>VOLUI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1612 5154">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1612 5154">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1612 5154; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1612 5154; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
